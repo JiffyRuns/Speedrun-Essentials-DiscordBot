@@ -1,6 +1,6 @@
 # Speedrun-Essentials-DiscordBot
 
-#Setting Up Your Bot
+# Setting Up Your Bot
 The first thing you're going to want to do is create a new discord app, you can do that by clicking this link:
 https://discordapp.com/developers/applications/me
 
@@ -16,12 +16,12 @@ Then, you're going to want to visit (replacing the "INSERTTOKENHERE" part of the
 
 Invite the bot to your discord, launch the SpeedrunsEssentialDiscordBot.exe file and enjoy!
 
-#Commands
+# Commands
 
 worldrecord [Game_Name] [Category_Name]
 categories [Game_Name]
 platforms [Game_Name]
 regions [Game_Name]
 
-###Example Command:
+### Example Command
 !worldrecord TWWHD Any%
