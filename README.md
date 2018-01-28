@@ -19,8 +19,11 @@ Invite the bot to your discord, launch the SpeedrunsEssentialDiscordBot.exe file
 # Commands
 
 worldrecord [Game_Name] [Category_Name]
+
 categories [Game_Name]
+
 platforms [Game_Name]
+
 regions [Game_Name]
 
 ### Example Command
